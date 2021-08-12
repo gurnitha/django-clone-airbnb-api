@@ -34,3 +34,8 @@ https://github.com/gurnitha/django-clone-airbnb-api
 #### 1.3 Create a new remote repository
 
         https://github.com/gurnitha/django-clone-airbnb-api 
+
+
+#### 1.4 Pushing the project's files to Github remote repository
+
+        modified:   README.md
