@@ -1,5 +1,6 @@
 # DJANGO CLONE AIRBNB API
 
+https://github.com/gurnitha/django-clone-airbnb-api
 
 ### ------------------
 ### 1. INITIAL SETUP
@@ -29,3 +30,7 @@
         new file:   users/urls.py
         new file:   users/views.py
 
+
+#### 1.3 Create a new remote repository
+
+        https://github.com/gurnitha/django-clone-airbnb-api 
